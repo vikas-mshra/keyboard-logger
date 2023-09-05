@@ -1,0 +1,8 @@
+# requirements.txt
+# This file specifies the required versions of GCC and GNU Make for your project.
+
+# GCC Version
+gcc==11.3.0
+
+# GNU Make Version
+make==4.3
